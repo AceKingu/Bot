@@ -1,0 +1,11 @@
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\obj\Debug\BotAceAsh.csprojResolveAssemblyReference.cache
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\obj\Debug\BotAceAsh.Form1.resources
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\obj\Debug\BotAceAsh.Properties.Resources.resources
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\obj\Debug\BotAceAsh.csproj.GenerateResource.Cache
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\bin\Debug\BotAceAsh.exe.config
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\bin\Debug\BotAceAsh.exe
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\bin\Debug\BotAceAsh.pdb
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\obj\Debug\BotAceAsh.exe
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\obj\Debug\BotAceAsh.pdb
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\bin\Debug\WindowsInput.dll
+C:\Users\AceKing\Documents\Visual Studio 2017\Projects\Exercice\BotAceAsh\BotAceAsh\bin\Debug\WindowsInput.xml
